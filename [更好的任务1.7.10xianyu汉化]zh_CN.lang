@@ -1,0 +1,200 @@
+betterquesting.title.quest_lines=任务行
+betterquesting.title.edit_line1=编辑任务行
+betterquesting.title.edit_line2=编辑任务行 - %s
+betterquesting.title.edit_quest=编辑任务
+betterquesting.title.edit_tasks=编辑任务
+betterquesting.title.edit_rewards=编辑奖励
+betterquesting.title.edit_text=文本编辑器
+betterquesting.title.pre_requisites=编辑 - 先决条件
+betterquesting.title.json_object=对象
+betterquesting.title.json_array=目录
+betterquesting.title.json_add=新类型 
+betterquesting.title.select_item=选择项目
+betterquesting.title.select_fluid=选择流体
+betterquesting.title.select_entity=选择实体
+betterquesting.title.party_none=提问方
+betterquesting.title.party=管理方 - %s
+betterquesting.title.party_invite=邀请用户
+betterquesting.title.select_theme=选择主题
+betterquesting.title.importers=汇入
+betterquesting.title.submit_station=提交站
+
+betterquesting.btn.rewards=奖励
+betterquesting.btn.tasks=任务
+betterquesting.btn.advanced=高级
+betterquesting.btn.is_main=主要
+betterquesting.btn.requirements=要求
+betterquesting.btn.edit=编辑
+betterquesting.btn.new=添加新的
+betterquesting.btn.import=输入
+betterquesting.btn.logic=逻辑
+betterquesting.btn.show=证明
+betterquesting.btn.claim=认领
+betterquesting.btn.detect_submit=检测/提交
+betterquesting.btn.add_remove_quests=添加/删除任务
+betterquesting.btn.designer=设计者
+betterquesting.btn.item=项目
+betterquesting.btn.list=目录
+betterquesting.btn.fluid=流体
+betterquesting.btn.entity=实体
+betterquesting.btn.text=文本
+betterquesting.btn.number=数量
+betterquesting.btn.object=对象
+betterquesting.btn.raw_nbt=原始NBT
+betterquesting.btn.party_new=创建参与方
+betterquesting.btn.party_leave=离开
+betterquesting.btn.party_invite=邀请
+betterquesting.btn.party_kick=踢
+betterquesting.btn.party_join=加入
+betterquesting.btn.party_share_lives=分享生存
+betterquesting.btn.party_share_loot=单一奖励
+betterquesting.btn.icon=图标
+
+betterquesting.home.exit=退出
+betterquesting.home.quests=任务
+betterquesting.home.party=组队
+betterquesting.home.theme=主题
+
+betterquesting.gui.name=名字
+betterquesting.gui.description=说明
+betterquesting.gui.quest_line=任务线
+betterquesting.gui.database=数据库
+betterquesting.gui.selection=选择
+betterquesting.gui.search=搜索
+betterquesting.gui.folder=文件夹
+betterquesting.gui.party_invites=邀请
+betterquesting.gui.party_members=成员
+betterquesting.gui.remaining_lives=剩余生命: %s
+betterquesting.gui.full_lives=生命值满
+betterquesting.gui.closing_warning=是否确实要关闭此编辑器？
+betterquesting.gui.closing_confirm=更改可能丢失！
+betterquesting.gui.key=密钥名称
+betterquesting.gui.no_key=无钥匙
+betterquesting.gui.duplicate_key=复制密钥
+
+betterquesting.tooltip.tasks_complete=%s/%s 任务已完成
+betterquesting.tooltip.complete=完成！
+betterquesting.tooltip.incomplete=未完成！
+betterquesting.tooltip.rewards_pending=无人认领的奖励
+betterquesting.tooltip.requires=要求:
+betterquesting.tooltip.shift_advanced=按住SHIFT键可获取高级信息
+betterquesting.tooltip.reset_time=冷却: %s
+betterquesting.tooltip.main_quest=主线: %s
+betterquesting.tooltip.global_quest=全球探索: %s
+betterquesting.tooltip.global_share=全球份额: %s
+betterquesting.tooltip.task_logic=任务逻辑: %s
+betterquesting.tooltip.simultaneous=同时执行的任务: %s
+betterquesting.tooltip.auto_claim=自动认领: %s
+betterquesting.tooltip.repeat=冷却: %s
+betterquesting.tooltip.update_quests=更新可用！%n§7A 新的任务线版本可用.%n单击此处可安装和迁移进度.
+
+betterquesting.notice.complete=任务完成
+betterquesting.notice.update=任务已更新
+betterquesting.notice.unlock=任务解锁
+
+betterquesting.msg.heart_disabled=没有启用极限模式。使用“/bq_admin hardcore”启用它
+
+key.betterquesting.quests=打开任务
+key.betterquesting.party=小队队长
+key.betterquesting.themes=更改主题
+
+itemGroup.betterquesting=更好的任务
+
+fluid.betterquesting.placeholder=占位符
+
+item.betterquesting.placeholder.name=项目占位符
+item.betterquesting.extra_life.full.name=额外生命
+item.betterquesting.extra_life.half.name=半心
+item.betterquesting.extra_life.quarter.name=四分之一心
+item.betterquesting.guide.name=更好的任务入门指南
+
+tile.betterquesting.submit_station.name=对象提交站 (OSS)
+
+betterquesting.btn.help1=导航
+betterquesting.btn.help2=对象提交站方块
+betterquesting.btn.help3=进行任务
+betterquesting.btn.help4=命令
+betterquesting.btn.help5=导入
+betterquesting.btn.help6=主题
+betterquesting.btn.help7=本地化
+betterquesting.btn.help8=资源
+
+betterquesting.help.page1=§l§n通用导航%n§r%n更好的任务的主要任务gui不依赖容易丢失的项目或方块，而是通过一个可以通过“控制”菜单找到和更改的键绑定.%n%n在“任务行”屏幕中，您可以从列表中选择任何活动行，并在框中拖动以导航到您选择的任务以开始完成任务.%n%n可以通过Party Management屏幕创建或编辑发问方。在这里，您还可以切换分享极限模式或任务奖励的选项。.%n%n如果你想改变你的任务用户界面的外观，你可以在主题选择屏幕上选择当前安装的主题.
+betterquesting.help.page2=§l§n提交站%n§r%n尽管许多任务可以通过库存（包括液体）直接提交，但有时您需要更自动化的解决方案。这就是对象提交站（OSS）的用武之地。支持OSS的任务可以通过内置接口进行选择，使其能够使用。一旦设置好，液体和物品可以通过管道进入或掉入界面的输入槽中，但是如果没有选择任何任务，或者已经完成了任务，则不会使物品或液体无效，从而相对安全地避免意外物品/液体删除。在同一任务下，多个OSS也可以同时承担不同的子任务！
+betterquesting.help.page3=§l§n进行任务%n§r%n要开始创建任务和任务行，首先必须通过运行编辑命令启用编辑模式（有关详细信息，请参见命令）。然后，您将能够添加或删除任务行，但您不需要开始进行任务。如果你想进行秘密任务来解锁其他任务或任务线，这特别方便.%n%n编辑时需要熟悉几个菜单。这些将是一个有点压倒性的相比，其他大多数mod，但随着时间的推移，它会变得更容易。一些高级编辑屏幕将编辑原始的任务数据，因此您需要非常小心更改内容，因为它可能会产生不利的副作用，但是这不会导致损坏或崩溃。如果发生任何一种情况，您应该立即向开发人员报告。
+betterquesting.help.page4=§l§n命令%n§r%n在处理更好的任务时，您只需要知道一些命令。它们分为用户命令（任何人都可以运行）和管理命令（仅限于服务器操作员）.%n%n§o/bq_user refresh%n§r%n如果存在潜在的去同步问题，请手动将本地请求数据库与服务器重新同步。%n%n§o/bq_user help%n§r%n给玩家一份本指南的副本%n%n§o/bq_admin edit%n§r%n打开和关闭任务编辑模式。启用后，操作员将能够访问任务和任务行的编辑菜单。请记住在发布包或任务之前禁用此功能.%n%n§o/bq_admin hardcore%n§r%n打开和关闭使用极限任务。当所有的生命都被耗尽时，玩家将被禁止进入服务器，或者按照标准的原版硬核删除他们的世界.%n%n§o/bq_admin reset [all|<quest_id>] [username|uuid]%n§r%n删除给定用户的任务完成数据。在发布包之前方便使用.%n%n§o/bq_admin default [save|load]%n§r%n将当前任务数据库保存/加载到全局默认目录。设置默认值意味着任何新创建的世界都将从特定的任务集开始。保存还将保留完成数据、硬核状态和编辑模式，因此在运行此命令之前，请务必根据需要使用各种其他命令.%n%n§o/bq_admin complete <quest_id> [username|uuid]%n§r%n强行完成玩家的任务%n%n§o/bq_admin delete [all|<quest_id>]%n§r%n删除给定的任务和进程数据，但不删除新世界默认值.%n%n§o/bq_admin lives [add|set|max|default] <value> [username]%n§r%n这些命令会改变玩家的生命量，或者改变起始值和最大值。
+betterquesting.help.page5=§l§n导入%n§r%n一些扩展包可能包括其他请求mod的导入程序，或者允许包制造商下载在线请求行。要访问这些导入程序，您可以单击主任务行编辑器中的“导入”按钮。默认情况下，Better Questing没有任何导入程序，因此如果您需要特定的导入程序，您需要找到一个扩展程序或自己进行扩展.
+betterquesting.help.page6=§l§n主题%n§r%n如果你是喜欢某个颜色托盘在他们的用户界面，或只是一个整合包制作者想要给它更真实的外观和感觉，那么主题是你最好的朋友。主题可以改变探索者的外观，以满足你的任何需要，无论是未来派，魔幻或只是经典地雷。它们可以通过资源包、资源目录或扩展包安装。
+betterquesting.help.page7=§l§n本地化%n§r%n更好的任务支持任务名称和描述的完全本地化，这样如果你现在想把你的包发布给所有国家的用户，你现在就可以了！为了开始本地化你的任务，你需要使用独特的键，比如“§omypack.quest1.name§r”，而不是纯文本。然后，您可以为所有特定语言的翻译创建只包含.lang文件的资源包。这些文件也可以存储在Better Questing的资源目录中，以便更好地建设你的模组包.
+betterquesting.help.page8=§l§n资源%n§r%n如果要自定义主屏幕、捆绑主题或添加本地化文件，可以通过: %n%n"§o/config/betterquesting/resources/<pack_name>/§r"%n%n这里的任何文件夹都可以被视为未列出的资源包，其中包含个性化包所需的所有内容。
+
+betterquesting.design.tree=树木设计 
+
+betterquesting.toolbox.tab.main=主要的
+
+betterquesting.toolbox.tool.open.name=打开
+betterquesting.toolbox.tool.open.desc=打开任务进行进一步的编辑
+betterquesting.toolbox.tool.grab.name=利用
+betterquesting.toolbox.tool.grab.desc=接收并移动任务行中其他位置的任务
+betterquesting.toolbox.tool.link.name=链接
+betterquesting.toolbox.tool.link.desc=设置一个问题作为其他人的预先要求。如果一个链接已经存在，那么它就会被清除
+betterquesting.toolbox.tool.snap.name=网格捕捉 
+betterquesting.toolbox.tool.snap.desc=更改各种其他工具的网格捕捉分辨率
+betterquesting.toolbox.tool.copy.name=拷贝
+betterquesting.toolbox.tool.copy.desc=复制给定的任务，包括先决条件、任务和奖励，但不复制进度数据
+betterquesting.toolbox.tool.new.name=新任务
+betterquesting.toolbox.tool.new.desc=创建新的空任务
+betterquesting.toolbox.tool.delete.name=删除任务
+betterquesting.toolbox.tool.delete.desc=从任务行和数据库中删除指定的任务
+betterquesting.toolbox.tool.remove.name=移开任务
+betterquesting.toolbox.tool.remove.desc=只从任务行中移开指定的任务。任务仍然可以通过数据库访问
+betterquesting.toolbox.tool.complete.name=手动完成 
+betterquesting.toolbox.tool.complete.desc=强制完成所选任务
+betterquesting.toolbox.tool.reset.name=重置任务
+betterquesting.toolbox.tool.reset.desc=重置完成状态和所有任务进度
+betterquesting.toolbox.tool.icon.name=选择图标
+betterquesting.toolbox.tool.icon.desc=更改任务图标
+betterquesting.toolbox.tool.scale.name=缩放图标
+betterquesting.toolbox.tool.scale.desc=上下缩放任务图标 
+betterquesting.toolbox.tool.raw.name=编辑原始
+betterquesting.toolbox.tool.raw.desc=打开原始任务行json进行编辑。包括其他隐藏设置，如更改背景
+
+betterquesting.cmd.complete=完成的任务 %s 对于 %s
+betterquesting.cmd.default.save=任务数据库保存为默认值
+betterquesting.cmd.default.save2=任务数据库保存到 %s
+betterquesting.cmd.default.load=重新加载默认任务数据库
+betterquesting.cmd.default.load2=已加载任务数据库 %s
+betterquesting.cmd.default.set=Set %s 作为默认的任务数据库
+betterquesting.cmd.default.none=找不到任务数据库
+betterquesting.cmd.delete.single=删除任务 %s
+betterquesting.cmd.delete.all=删除所有任务
+betterquesting.cmd.edit=编辑模式 %s
+betterquesting.cmd.hardcore=极限模式 %s
+
+betterquesting.cmd.lives.add_player=补充 %s 生命 %s (合计: %s)
+betterquesting.cmd.lives.add_all=补充 %s 所有玩家的生命
+betterquesting.cmd.lives.remove_player=减少 %s 生命 %s (合计: %s)
+betterquesting.cmd.lives.remove_all=减少 %s 所有玩家的生命
+betterquesting.cmd.lives.set_player=将 %s的生命设定为 %s
+betterquesting.cmd.lives.set_all=将所有玩家的生命设定为 %s
+betterquesting.cmd.lives.max=将最高生命设置为 %s
+betterquesting.cmd.lives.default=将默认生命设置为 %s
+
+betterquesting.cmd.reset.player_single=重置任务 '%s' 对 %s
+betterquesting.cmd.reset.player_all=重置所有任务 %s
+betterquesting.cmd.reset.all_single=重置任务 '%s' 为每个人
+betterquesting.cmd.reset.all_all=重置所有人的所有任务
+betterquesting.cmd.refresh=正在刷新本地数据库…
+
+json.betterquesting.quest.name=任务数据
+jdoc.betterquesting.quest.rewards.name=奖励
+jdoc.betterquesting.quest.rewards.desc=可配置奖励类型列表
+jdoc.betterquesting.quest.tasks.name=任务
+jdoc.betterquesting.quest.tasks.desc=可配置任务类型列表
+jdoc.betterquesting.quest.preRequisites.name=先决-条件
+jdoc.betterquesting.quest.preRequisites.desc=用于解锁此任务的原任务ID列表
+jdoc.betterquesting.quest.properties.name=属性
+jdoc.betterquesting.quest.properties.desc=定义任务外观和功能的属性
+
+jdoc.betterquesting.quest.properties.betterquesting.name=更好的任务
+jdoc.betterquesting.quest.properties.betterquesting.desc=更好的任务属性
